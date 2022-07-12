@@ -1,0 +1,325 @@
+Name	Accession	Category	Origin	Source_Species	GenGroup90	GenGroup80	GenGroup
+3156-11	KP:GERM28819	Germplasm_Accession	Canada	Lens_culinaris		8	8
+CDC_ASTERIX	KP:GERM28820	Germplasm_Accession	Canada	Lens_culinaris	8	8	8
+CDC_CHERIE	KP:GERM28821	Germplasm_Accession	Canada	Lens_culinaris			8
+CDC_GLAMIS	KP:GERM28822	Germplasm_Accession	Canada	Lens_culinaris		8	8
+CDC_GOLD	KP:GERM28823	Germplasm_Accession	Canada	Lens_culinaris			8
+CDC_GREENSTAR	KP:GERM28824	Germplasm_Accession	Canada	Lens_culinaris			8
+CDC_IMAX	KP:GERM28825	Germplasm_Accession	Canada	Lens_culinaris			8
+CDC_IMPOWER	KP:GERM28826	Germplasm_Accession	Canada	Lens_culinaris			8
+CDC_KR-1	KP:GERM28827	Germplasm_Accession	Canada	Lens_culinaris			8
+CDC_LEMAY	KP:GERM28828	Germplasm_Accession	Canada	Lens_culinaris	8	8	8
+CDC_MAXIM	KP:GERM28829	Germplasm_Accession	Canada	Lens_culinaris			8
+QG-1-merged	KP:GERM28830	Germplasm_Accession	Canada	Lens_culinaris	8	8	8
+CDC_REDCOAT	KP:GERM28831	Germplasm_Accession	Canada	Lens_culinaris			8
+CDC_RED_RIDER	KP:GERM28832	Germplasm_Accession	Canada	Lens_culinaris			8
+CDC_REDWING	KP:GERM28833	Germplasm_Accession	Canada	Lens_culinaris			5
+CDC_Robin	KP:GERM28834	Germplasm_Accession	Canada	Lens_culinaris	8	8	8
+CDC_ROSEBUD	KP:GERM28835	Germplasm_Accession	Canada	Lens_culinaris	8	8	8
+CDC_ROSETOWN	KP:GERM28836	Germplasm_Accession	Canada	Lens_culinaris	8	8	8
+CDC_ROSIE	KP:GERM28837	Germplasm_Accession	Canada	Lens_culinaris	8	8	8
+CDC_ROULEAU	KP:GERM28838	Germplasm_Accession	Canada	Lens_culinaris			8
+CDC_ROYALE	KP:GERM28839	Germplasm_Accession	Canada	Lens_culinaris	8	8	8
+CDC_RUBY	KP:GERM28840	Germplasm_Accession	Canada	Lens_culinaris		8	8
+SB-1-merged	KP:GERM28841	Germplasm_Accession	Canada	Lens_culinaris			8
+CDC_SEDLEY	KP:GERM28842	Germplasm_Accession	Canada	Lens_culinaris			8
+CDC_VANTAGE	KP:GERM28843	Germplasm_Accession	Canada	Lens_culinaris			8
+CN_105604	KP:GERM28844	Germplasm_Accession	Ethiopia	Lens_culinaris	4	4	4
+CN_105605	KP:GERM28845	Germplasm_Accession	Eritrea	Lens_culinaris			6
+CN_105715-merged	KP:GERM28846	Germplasm_Accession	Ethiopia	Lens_culinaris			7
+CN_105732	KP:GERM28847	Germplasm_Accession	Ethiopia	Lens_culinaris			8
+CN_105767	KP:GERM28848	Germplasm_Accession	Libya	Lens_culinaris		8	8
+CN_105777	KP:GERM28849	Germplasm_Accession	Egypt	Lens_culinaris			5
+CN_105789	KP:GERM28850	Germplasm_Accession	Ethiopia	Lens_culinaris	5	5	5
+CN_105791	KP:GERM28851	Germplasm_Accession	Egypt	Lens_culinaris			5
+CN_105862	KP:GERM28852	Germplasm_Accession	Tunisia	Lens_culinaris		7	7
+CN_105863	KP:GERM28853	Germplasm_Accession	Tunisia	Lens_culinaris			3
+CN_105864	KP:GERM28854	Germplasm_Accession	Tunisia	Lens_culinaris			8
+CN_105865	KP:GERM28855	Germplasm_Accession	Tunisia	Lens_culinaris	7	7	7
+CN_105866	KP:GERM29021	Germplasm_Accession	Tunisia	Lens_culinaris		7	7
+CN_105895	KP:GERM28856	Germplasm_Accession	Egypt	Lens_culinaris	5	5	5
+CN_106265	KP:GERM28857	Germplasm_Accession	Egypt	Lens_culinaris		8	8
+CN_108369	KP:GERM28858	Germplasm_Accession	Libya	Lens_culinaris			8
+CN_108370	KP:GERM28859	Germplasm_Accession	Libya	Lens_culinaris	8	8	8
+CRIMSON	KP:GERM28860	Germplasm_Accession	USA	Lens_culinaris			8
+DPL-62	KP:GERM28861	Germplasm_Accession	India	Lens_culinaris			4
+ESTON_UOFS	KP:GERM28862	Germplasm_Accession	Canada	Lens_culinaris	8	8	8
+GUDO	KP:GERM28863	Germplasm_Accession	Ethiopia	Lens_culinaris			7
+IG_1046	KP:GERM28864	Germplasm_Accession	Egypt	Lens_culinaris	1	1	1
+IG_1706	KP:GERM28865	Germplasm_Accession	Ethiopia	Lens_culinaris			1
+IG_1959	KP:GERM28866	Germplasm_Accession	Ethiopia	Lens_culinaris	3	3	3
+IG_4258	KP:GERM28867	Germplasm_Accession	India	Lens_culinaris			1
+IG_4781	KP:GERM28868	Germplasm_Accession	Algeria	Lens_culinaris	3	3	3
+IG_858	KP:GERM28869	Germplasm_Accession	Algeria	Lens_culinaris	4	4	4
+ILL_10657	KP:GERM28870	Germplasm_Accession	Turkey	Lens_culinaris	7	7	7
+ILL_10748	KP:GERM28871	Germplasm_Accession	Syria	Lens_culinaris	8	8	8
+ILL_11547	KP:GERM28872	Germplasm_Accession	Ethiopia	Lens_culinaris			5
+ILL_11548	KP:GERM28873	Germplasm_Accession	Ethiopia	Lens_culinaris			8
+ILL_11553	KP:GERM28874	Germplasm_Accession	India	Lens_culinaris	8	8	8
+ILL_11555	KP:GERM28875	Germplasm_Accession	India	Lens_culinaris			4
+ILL_11557	KP:GERM28876	Germplasm_Accession	India	Lens_culinaris		4	4
+ILL_11558	KP:GERM28877	Germplasm_Accession	India	Lens_culinaris	4	4	4
+ILL_1220	KP:GERM28878	Germplasm_Accession	Iran	Lens_culinaris		1	1
+ILL_1553	KP:GERM28879	Germplasm_Accession	Iran	Lens_culinaris	1	1	1
+ILL_1762	KP:GERM28880	Germplasm_Accession	Afghanistan	Lens_culinaris		6	6
+ILL_1983	KP:GERM28881	Germplasm_Accession	Ethiopia	Lens_culinaris	4	4	4
+ILL_213	KP:GERM28882	Germplasm_Accession	Afghanistan	Lens_culinaris		6	6
+ILL_2194	KP:GERM28883	Germplasm_Accession	Pakistan	Lens_culinaris			5
+ILL_2507	KP:GERM28884	Germplasm_Accession	India	Lens_culinaris	4	4	4
+ILL_2580	KP:GERM28885	Germplasm_Accession	India	Lens_culinaris			5
+ILL_28	KP:GERM28886	Germplasm_Accession	Syria	Lens_culinaris		7	7
+ILL_3025	KP:GERM28887	Germplasm_Accession	India	Lens_culinaris	4	4	4
+ILL_313	KP:GERM28888	Germplasm_Accession	Israel	Lens_culinaris			8
+ILL_3347	KP:GERM28889	Germplasm_Accession	India	Lens_culinaris	4	4	4
+ILL_358	KP:GERM28890	Germplasm_Accession	Mexico	Lens_culinaris			5
+ILL_3597	KP:GERM28891	Germplasm_Accession	India	Lens_culinaris	4	4	4
+ILL_4164	KP:GERM28892	Germplasm_Accession	India	Lens_culinaris	2	2	2
+ILL_4400	KP:GERM28893	Germplasm_Accession	Syria	Lens_culinaris			7
+ILL_4605	KP:GERM28894	Germplasm_Accession	Argentina	Lens_culinaris			7
+ILL_4609	KP:GERM28895	Germplasm_Accession	Pakistan	Lens_culinaris	4	4	4
+ILL_4665	KP:GERM28896	Germplasm_Accession	Hungary	Lens_culinaris			7
+ILL_4671	KP:GERM28897	Germplasm_Accession	USA	Lens_culinaris	7	7	7
+ILL_4768	KP:GERM28898	Germplasm_Accession	Yemen	Lens_culinaris	5	5	5
+ILL_4782	KP:GERM28899	Germplasm_Accession	Norway	Lens_culinaris		1	1
+ILL_4783	KP:GERM28900	Germplasm_Accession	Czech_Republic	Lens_culinaris			8
+ILL_4804	KP:GERM28901	Germplasm_Accession	Libya	Lens_culinaris			8
+ILL_4875	KP:GERM28902	Germplasm_Accession	Uzbekistan	Lens_culinaris	6	6	6
+ILL_4956	KP:GERM28903	Germplasm_Accession	Portugal	Lens_culinaris	8	8	8
+ILL_5058	KP:GERM28904	Germplasm_Accession	Spain	Lens_culinaris			7
+ILL_5151	KP:GERM28905	Germplasm_Accession	India	Lens_culinaris	5	5	5
+ILL_5209	KP:GERM28906	Germplasm_Accession	Jordan	Lens_culinaris	5	5	5
+ILL_5480	KP:GERM28907	Germplasm_Accession	Czech_Republic	Lens_culinaris			8
+ILL_5639	KP:GERM28908	Germplasm_Accession	Ethiopia	Lens_culinaris			8
+ILL_5722	KP:GERM28909	Germplasm_Accession	Turkey	Lens_culinaris			7
+ILL_5883	KP:GERM28910	Germplasm_Accession	Jordan	Lens_culinaris	5	5	5
+ILL_5888	KP:GERM28911	Germplasm_Accession	Bangladesh	Lens_culinaris			7
+ILL_5945	KP:GERM28912	Germplasm_Accession	Ethiopia	Lens_culinaris	5	5	5
+ILL_6002	KP:GERM28913	Germplasm_Accession	Syria	Lens_culinaris			8
+ILL_6182	KP:GERM28915	Germplasm_Accession	Tunisia	Lens_culinaris			8
+ILL_618	KP:GERM28914	Germplasm_Accession	Tajikistan	Lens_culinaris	6	6	6
+ILL_6211	KP:GERM28916	Germplasm_Accession	Syria	Lens_culinaris			8
+ILL_624	KP:GERM28917	Germplasm_Accession	Macedonia	Lens_culinaris	8	8	8
+ILL_6821	KP:GERM28918	Germplasm_Accession	Syria	Lens_culinaris	5	5	5
+ILL_6853	KP:GERM28919	Germplasm_Accession	Syria	Lens_culinaris		7	7
+ILL_7089	KP:GERM28920	Germplasm_Accession	Russia	Lens_culinaris	1	1	1
+ILL_7558	KP:GERM28921	Germplasm_Accession	India	Lens_culinaris			7
+ILL_7663	KP:GERM28922	Germplasm_Accession	Syria	Lens_culinaris			4
+ILL_7668	KP:GERM28923	Germplasm_Accession	Syria	Lens_culinaris			4
+ILL_7716	KP:GERM28924	Germplasm_Accession	India	Lens_culinaris			7
+ILL_7747	KP:GERM28925	Germplasm_Accession	Syria	Lens_culinaris			2
+ILL_7946	KP:GERM28926	Germplasm_Accession	Syria	Lens_culinaris	5	5	5
+ILL_7978	KP:GERM28927	Germplasm_Accession	Ethiopia	Lens_culinaris			5
+ILL_7979	KP:GERM28928	Germplasm_Accession	Syria	Lens_culinaris			4
+ILL_8007	KP:GERM28929	Germplasm_Accession	Bangladesh	Lens_culinaris			4
+ILL_8009	KP:GERM28930	Germplasm_Accession	Bangladesh	Lens_culinaris	4	4	4
+ILL_8010	KP:GERM28931	Germplasm_Accession	Bangladesh	Lens_culinaris			4
+ILL_8072	KP:GERM28932	Germplasm_Accession	India	Lens_culinaris		7	7
+ILL_8174	KP:GERM28933	Germplasm_Accession	Nepal	Lens_culinaris			8
+ILL_8595	KP:GERM28934	Germplasm_Accession	Ecuador	Lens_culinaris			8
+ILL_975	KP:GERM28936	Germplasm_Accession	Chile	Lens_culinaris	5	5	5
+ILL_9888	KP:GERM28937	Germplasm_Accession	Syria	Lens_culinaris			5
+ILL_9932	KP:GERM28938	Germplasm_Accession	Syria	Lens_culinaris			4
+ILL_9945	KP:GERM28939	Germplasm_Accession	Syria	Lens_culinaris			4
+ILL_9977	KP:GERM28940	Germplasm_Accession	Syria	Lens_culinaris			4
+ILL_9997	KP:GERM28941	Germplasm_Accession	Syria	Lens_culinaris			4
+ILL_9	KP:GERM28935	Germplasm_Accession	Jordan	Lens_culinaris			7
+ILWL_118	KP:GERM29142	Germplasm_Accession	Syria	Lens_orientalis		4	4
+Indian_Head	KP:GERM28942	Germplasm_Accession	Canada	Lens_culinaris	8	8	8
+IPL_220	KP:GERM28943	Germplasm_Accession	India	Lens_culinaris	4	4	4
+LAIRD	KP:GERM28944	Germplasm_Accession	Canada	Lens_culinaris		8	8
+LIRL-22-46	KP:GERM28945	Germplasm_Accession	India	Lens_culinaris			7
+PI_163589	KP:GERM28946	Germplasm_Accession	Guatemala	Lens_culinaris	7	7	7
+PI_169534_LSP	KP:GERM28947	Germplasm_Accession	Turkey	Lens_culinaris	8	8	8
+PI_175754_LSP	KP:GERM28948	Germplasm_Accession	Turkey	Lens_culinaris			8
+PI_177430_LSP	KP:GERM28949	Germplasm_Accession	Turkey	Lens_culinaris			2
+PI_178939_LSP	KP:GERM28950	Germplasm_Accession	Turkey	Lens_culinaris	8	8	8
+PI_178952	KP:GERM28951	Germplasm_Accession	Turkey	Lens_culinaris	1	1	1
+PI_178971_LSP	KP:GERM28952	Germplasm_Accession	Turkey	Lens_culinaris	6	6	6
+PI_179324_LSP	KP:GERM28953	Germplasm_Accession	Syria	Lens_culinaris	2	2	2
+PI_179330	KP:GERM28954	Germplasm_Accession	Turkey	Lens_culinaris	1	1	1
+PI_181771_LSP	KP:GERM28955	Germplasm_Accession	Lebanon	Lens_culinaris	6	6	6
+PI_181886_LSP	KP:GERM28956	Germplasm_Accession	Syria	Lens_culinaris		7	7
+PI_182217_LSP	KP:GERM28957	Germplasm_Accession	Turkey	Lens_culinaris		1	1
+PI_193546	KP:GERM28958	Germplasm_Accession	Ethiopia	Lens_culinaris	2	2	2
+PI_193547_LSP	KP:GERM28959	Germplasm_Accession	Ethiopia	Lens_culinaris	6	6	6
+PI_193548_LSP	KP:GERM28960	Germplasm_Accession	Ethiopia	Lens_culinaris	5	5	5
+PI_193550	KP:GERM28961	Germplasm_Accession	Ethiopia	Lens_culinaris	5	5	5
+PI_207492_LSP	KP:GERM28962	Germplasm_Accession	Afghanistan	Lens_culinaris	6	6	6
+PI_209858	KP:GERM28964	Germplasm_Accession	Greece	Lens_culinaris	5	5	5
+PI_211052_LSP	KP:GERM28965	Germplasm_Accession	Afghanistan	Lens_culinaris	6	6	6
+PI_212100_LSP	KP:GERM28966	Germplasm_Accession	Afghanistan	Lens_culinaris	6	6	6
+PI_212610_LSP	KP:GERM28967	Germplasm_Accession	Afghanistan	Lens_culinaris	6	6	6
+PI_217949_LSP	KP:GERM28968	Germplasm_Accession	Pakistan	Lens_culinaris	4	4	4
+PI_238758_LSP	KP:GERM28969	Germplasm_Accession	Belgium	Lens_culinaris			8
+PI_244046	KP:GERM28970	Germplasm_Accession	Yemen	Lens_culinaris	5	5	5
+PI_250156_LSP	KP:GERM28971	Germplasm_Accession	Pakistan	Lens_culinaris	4	4	4
+PI_250158_LSP	KP:GERM28972	Germplasm_Accession	Pakistan	Lens_culinaris	4	4	4
+PI_251248_LSP	KP:GERM28973	Germplasm_Accession	Egypt	Lens_culinaris	5	5	5
+PI_273664_LSP	KP:GERM28974	Germplasm_Accession	Ethiopia	Lens_culinaris	4	4	4
+PI_280686	KP:GERM28975	Germplasm_Accession	Egypt	Lens_culinaris			5
+PI_283604_LSP	KP:GERM28976	Germplasm_Accession	Portugal	Lens_culinaris	7	7	7
+PI_289066	KP:GERM28977	Germplasm_Accession	Czech_Republic	Lens_culinaris	5	5	5
+PI_289073_LSP	KP:GERM28978	Germplasm_Accession	Hungary	Lens_culinaris	8	8	8
+PI_289079_LSP	KP:GERM28979	Germplasm_Accession	Egypt	Lens_culinaris	8	8	8
+PI_290716_LSP	KP:GERM28980	Germplasm_Accession	United_Kingdom	Lens_culinaris	6	6	6
+PI_297285_LSP	KP:GERM28981	Germplasm_Accession	Argentina	Lens_culinaris			8
+PI_297287	KP:GERM28982	Germplasm_Accession	Argentina	Lens_culinaris			7
+PI_297754_LSP	KP:GERM28983	Germplasm_Accession	Greece	Lens_culinaris	8	8	8
+PI_297767	KP:GERM28984	Germplasm_Accession	Greece	Lens_culinaris	7	7	7
+PI_297772_LSP	KP:GERM28985	Germplasm_Accession	Greece	Lens_culinaris	2	2	2
+PI_297783	KP:GERM28986	Germplasm_Accession	Ethiopia	Lens_culinaris	5	5	5
+PI_297787_LSP	KP:GERM28987	Germplasm_Accession	Greece	Lens_culinaris	6	6	6
+PI_298023_LSP	KP:GERM28988	Germplasm_Accession	Turkey	Lens_culinaris		1	1
+PI_298121_LSP	KP:GERM28989	Germplasm_Accession	France	Lens_culinaris			8
+PI_298122_LSP	KP:GERM28990	Germplasm_Accession	France	Lens_culinaris	8	8	8
+PI_298357_LSP	KP:GERM28991	Germplasm_Accession	Egypt	Lens_culinaris		1	1
+PI_298631_LSP	KP:GERM28992	Germplasm_Accession	Peru	Lens_culinaris	7	7	7
+PI_298644_LSP	KP:GERM28993	Germplasm_Accession	Spain	Lens_culinaris		7	7
+PI_298645	KP:GERM28994	Germplasm_Accession	Spain	Lens_culinaris			7
+PI_298921	KP:GERM28995	Germplasm_Accession	Italy	Lens_culinaris			7
+PI_298922_LSP	KP:GERM28996	Germplasm_Accession	Italy	Lens_culinaris			8
+PI_298923_LSP	KP:GERM28997	Germplasm_Accession	Italy	Lens_culinaris		1	1
+PI_299116_LSP	KP:GERM28998	Germplasm_Accession	Mexico	Lens_culinaris		8	8
+PI_299120_LSP	KP:GERM28999	Germplasm_Accession	Mexico	Lens_culinaris			8
+PI_299121_LSP	KP:GERM29000	Germplasm_Accession	Mexico	Lens_culinaris			8
+PI_299126_LSP	KP:GERM29001	Germplasm_Accession	Mexico	Lens_culinaris			8
+PI_299163_LSP	KP:GERM29002	Germplasm_Accession	Chile	Lens_culinaris	7	7	7
+PI_299164_LSP	KP:GERM29003	Germplasm_Accession	Chile	Lens_culinaris			7
+PI_299165	KP:GERM29004	Germplasm_Accession	Chile	Lens_culinaris		7	7
+PI_299177_LSP	KP:GERM29005	Germplasm_Accession	Chile	Lens_culinaris			7
+PI_299237_LSP	KP:GERM29006	Germplasm_Accession	Chile	Lens_culinaris			3
+PI_299289	KP:GERM29007	Germplasm_Accession	Chile	Lens_culinaris			1
+PI_299312	KP:GERM29008	Germplasm_Accession	Chile	Lens_culinaris	7	7	7
+PI_299345	KP:GERM29009	Germplasm_Accession	Chile	Lens_culinaris	7	7	7
+PI_299351	KP:GERM29010	Germplasm_Accession	Chile	Lens_culinaris	3	3	3
+PI_299366_LSP	KP:GERM29011	Germplasm_Accession	Chile	Lens_culinaris		7	7
+PI_299375_LSP	KP:GERM29012	Germplasm_Accession	Chile	Lens_culinaris		7	7
+PI_300250_LSP	KP:GERM29013	Germplasm_Accession	Syria	Lens_culinaris	2	2	2
+PI_302398_LSP	KP:GERM29014	Germplasm_Accession	Jordan	Lens_culinaris			7
+PI_308614_LSP	KP:GERM29015	Germplasm_Accession	Syria	Lens_culinaris	2	2	2
+PI_311107_LSP	KP:GERM29016	Germplasm_Accession	Guatemala	Lens_culinaris	7	7	7
+PI_312175_LSP	KP:GERM29017	Germplasm_Accession	Mexico	Lens_culinaris	8	8	8
+PI_320935_LSP	KP:GERM29018	Germplasm_Accession	Iran	Lens_culinaris	1	1	1
+PI_320936_LSP	KP:GERM29019	Germplasm_Accession	Russia	Lens_culinaris	8	8	8
+PI_320937_LSP	KP:GERM29020	Germplasm_Accession	Germany	Lens_culinaris	8	8	8
+PI_320941_LSP	KP:GERM29022	Germplasm_Accession	Ethiopia	Lens_culinaris	6	6	6
+PI_320945_LSP	KP:GERM29023	Germplasm_Accession	Bulgaria	Lens_culinaris			8
+PI_320946_LSP	KP:GERM29024	Germplasm_Accession	Palestine	Lens_culinaris			5
+PI_320952_LSP	KP:GERM29025	Germplasm_Accession	Czech_Republic	Lens_culinaris	8	8	8
+PI_320953_LSP	KP:GERM29026	Germplasm_Accession	Germany	Lens_culinaris	8	8	8
+PI_320954_LSP	KP:GERM29027	Germplasm_Accession	Czech_Republic	Lens_culinaris	8	8	8
+PI_329157_LSP	KP:GERM29028	Germplasm_Accession	Iran	Lens_culinaris	1	1	1
+PI_329167_LSP	KP:GERM29029	Germplasm_Accession	Iran	Lens_culinaris			7
+PI_339266_LSP	KP:GERM29030	Germplasm_Accession	Turkey	Lens_culinaris			1
+PI_339283_LSP	KP:GERM29031	Germplasm_Accession	Turkey	Lens_culinaris			2
+PI_339285	KP:GERM29032	Germplasm_Accession	Turkey	Lens_culinaris			2
+PI_339289_LSP	KP:GERM29033	Germplasm_Accession	Turkey	Lens_culinaris		1	1
+PI_339292_LSP	KP:GERM29034	Germplasm_Accession	Turkey	Lens_culinaris		1	1
+PI_339296	KP:GERM29035	Germplasm_Accession	Turkey	Lens_culinaris	1	1	1
+PI_343026_LSP	KP:GERM29036	Germplasm_Accession	Tajikistan	Lens_culinaris	6	6	6
+PI_345627_LSP	KP:GERM29037	Germplasm_Accession	Ukraine	Lens_culinaris		8	8
+PI_358602_LSP	KP:GERM29038	Germplasm_Accession	Ethiopia	Lens_culinaris	8	8	8
+PI_368647_LSP	KP:GERM29039	Germplasm_Accession	Macedonia	Lens_culinaris	8	8	8
+PI_368651_LSP	KP:GERM29040	Germplasm_Accession	Montenegro	Lens_culinaris	8	8	8
+PI_370481_LSP	KP:GERM29041	Germplasm_Accession	Serbia	Lens_culinaris		7	7
+PI_374116_LSP	KP:GERM29042	Germplasm_Accession	Morocco	Lens_culinaris	8	8	8
+PI_374117_LSP	KP:GERM29043	Germplasm_Accession	Morocco	Lens_culinaris		8	8
+PI_374118	KP:GERM29044	Germplasm_Accession	Morocco	Lens_culinaris	5	5	5
+PI_374120_LSP	KP:GERM29045	Germplasm_Accession	Morocco	Lens_culinaris			7
+PI_374121	KP:GERM29046	Germplasm_Accession	Morocco	Lens_culinaris			7
+PI_379368_LSP	KP:GERM29047	Germplasm_Accession	Serbia	Lens_culinaris			7
+PI_383682_LSP	KP:GERM29048	Germplasm_Accession	Turkey	Lens_culinaris	1	1	1
+PI_420818	KP:GERM29049	Germplasm_Accession	Greece	Lens_culinaris			7
+PI_420924_LSP	KP:GERM29050	Germplasm_Accession	Jordan	Lens_culinaris		7	7
+PI_420925_LSP	KP:GERM29051	Germplasm_Accession	Jordan	Lens_culinaris	5	5	5
+PI_420929_LSP	KP:GERM29052	Germplasm_Accession	Jordan	Lens_culinaris	5	5	5
+PI_426202_LSP	KP:GERM29053	Germplasm_Accession	Afghanistan	Lens_culinaris	6	6	6
+PI_426778_LSP	KP:GERM29054	Germplasm_Accession	Pakistan	Lens_culinaris			1
+PI_426784_LSP	KP:GERM29055	Germplasm_Accession	Pakistan	Lens_culinaris	4	4	4
+PI_426797_LSP	KP:GERM29056	Germplasm_Accession	Pakistan	Lens_culinaris	4	4	4
+PI_426807	KP:GERM29057	Germplasm_Accession	Pakistan	Lens_culinaris	4	4	4
+PI_431618_LSP	KP:GERM29058	Germplasm_Accession	Iran	Lens_culinaris		1	1
+PI_431622_LSP	KP:GERM29059	Germplasm_Accession	Iran	Lens_culinaris	3	3	3
+PI_431630_LSP	KP:GERM29060	Germplasm_Accession	Iran	Lens_culinaris	6	6	6
+PI_431633_LSP	KP:GERM29061	Germplasm_Accession	Iran	Lens_culinaris			7
+PI_431636_LSP	KP:GERM29062	Germplasm_Accession	Iran	Lens_culinaris			1
+PI_431643_LSP	KP:GERM29063	Germplasm_Accession	Iran	Lens_culinaris	1	1	1
+PI_431662_LSP	KP:GERM29064	Germplasm_Accession	Iran	Lens_culinaris	3	3	3
+PI_431663_LSP	KP:GERM29065	Germplasm_Accession	Iran	Lens_culinaris	3	3	3
+PI_431679_LSP	KP:GERM29066	Germplasm_Accession	Iran	Lens_culinaris	3	3	3
+PI_431684_LSP	KP:GERM29067	Germplasm_Accession	Iran	Lens_culinaris	6	6	6
+PI_431705_LSP	KP:GERM29068	Germplasm_Accession	Iran	Lens_culinaris	3	3	3
+PI_431710	KP:GERM29069	Germplasm_Accession	Iran	Lens_culinaris	3	3	3
+PI_431714_LSP	KP:GERM29070	Germplasm_Accession	Iran	Lens_culinaris	3	3	3
+PI_431717_LSP	KP:GERM29071	Germplasm_Accession	Iran	Lens_culinaris	3	3	3
+PI_431728_LSP	KP:GERM29072	Germplasm_Accession	Iran	Lens_culinaris	3	3	3
+PI_431731_LSP	KP:GERM29073	Germplasm_Accession	Iran	Lens_culinaris	3	3	3
+PI_431739_LSP	KP:GERM29074	Germplasm_Accession	Iran	Lens_culinaris		3	3
+PI_431753_LSP	KP:GERM29075	Germplasm_Accession	Iran	Lens_culinaris	3	3	3
+PI_431756_LSP	KP:GERM29076	Germplasm_Accession	Iran	Lens_culinaris	3	3	3
+PI_431809_LSP	KP:GERM29077	Germplasm_Accession	Iran	Lens_culinaris			1
+PI_431824_LSP	KP:GERM29078	Germplasm_Accession	Iran	Lens_culinaris	1	1	1
+PI_431863_LSP	KP:GERM29079	Germplasm_Accession	Iran	Lens_culinaris			3
+PI_431873_LSP	KP:GERM29080	Germplasm_Accession	Iran	Lens_culinaris		6	6
+PI_431884_LSP	KP:GERM29081	Germplasm_Accession	Iran	Lens_culinaris	1	1	1
+PI_431888_LSP	KP:GERM29082	Germplasm_Accession	Iran	Lens_culinaris		6	6
+PI_431893_LSP	KP:GERM29083	Germplasm_Accession	Iran	Lens_culinaris			8
+PI_431923_LSP	KP:GERM29084	Germplasm_Accession	Iran	Lens_culinaris	6	6	6
+PI_431980_LSP	KP:GERM29085	Germplasm_Accession	Iran	Lens_culinaris		1	1
+PI_432000_LSP	KP:GERM29086	Germplasm_Accession	Iran	Lens_culinaris	6	6	6
+PI_432001_LSP	KP:GERM29087	Germplasm_Accession	Iran	Lens_culinaris			1
+PI_432002_LSP	KP:GERM29088	Germplasm_Accession	Iran	Lens_culinaris			3
+PI_432005_LSP	KP:GERM29089	Germplasm_Accession	Iran	Lens_culinaris			1
+PI_432028_LSP	KP:GERM29090	Germplasm_Accession	Iran	Lens_culinaris	3	3	3
+PI_432033_LSP	KP:GERM29091	Germplasm_Accession	Iran	Lens_culinaris	3	3	3
+PI_432085_LSP	KP:GERM29092	Germplasm_Accession	Iran	Lens_culinaris	1	1	1
+PI_432106_LSP	KP:GERM29093	Germplasm_Accession	Iran	Lens_culinaris			7
+PI_432124_LSP	KP:GERM29094	Germplasm_Accession	Iran	Lens_culinaris	3	3	3
+PI_432145_LSP	KP:GERM29095	Germplasm_Accession	Iran	Lens_culinaris	3	3	3
+PI_432147_LSP	KP:GERM29096	Germplasm_Accession	Iran	Lens_culinaris	3	3	3
+PI_432184_LSP	KP:GERM29097	Germplasm_Accession	Iran	Lens_culinaris	1	1	1
+PI_432188_LSP	KP:GERM29098	Germplasm_Accession	Iran	Lens_culinaris	1	1	1
+PI_432190_LSP	KP:GERM29099	Germplasm_Accession	Iran	Lens_culinaris		8	8
+PI_432201_LSP	KP:GERM29100	Germplasm_Accession	Iran	Lens_culinaris	8	8	8
+PI_432212_LSP	KP:GERM29101	Germplasm_Accession	Iran	Lens_culinaris	3	3	3
+PI_432236_LSP	KP:GERM29102	Germplasm_Accession	Jordan	Lens_culinaris	3	3	3
+PI_432245_LSP	KP:GERM29103	Germplasm_Accession	Lebanon	Lens_culinaris	1	1	1
+PI_432271_LSP	KP:GERM29104	Germplasm_Accession	Turkey	Lens_culinaris	8	8	8
+PI_432286_LSP	KP:GERM29105	Germplasm_Accession	Egypt	Lens_culinaris	2	2	2
+PI_451763_LSP	KP:GERM29106	Germplasm_Accession	USA	Lens_culinaris			8
+PI_458503_LSP	KP:GERM29107	Germplasm_Accession	Mexico	Lens_culinaris			8
+PI_468900_LSP	KP:GERM29108	Germplasm_Accession	Brazil	Lens_culinaris			8
+PI_468901	KP:GERM29109	Germplasm_Accession	Brazil	Lens_culinaris		8	8
+PI_468902_LSP	KP:GERM29110	Germplasm_Accession	Brazil	Lens_culinaris		8	8
+PI_472136_LSP	KP:GERM29111	Germplasm_Accession	India	Lens_culinaris	4	4	4
+PI_472205_LSP	KP:GERM29112	Germplasm_Accession	India	Lens_culinaris	4	4	4
+PI_472213_LSP	KP:GERM29113	Germplasm_Accession	India	Lens_culinaris			1
+PI_472327_LSP	KP:GERM29114	Germplasm_Accession	India	Lens_culinaris	4	4	4
+PI_472380_LSP	KP:GERM29115	Germplasm_Accession	India	Lens_culinaris	4	4	4
+PI_472416_LSP	KP:GERM29116	Germplasm_Accession	India	Lens_culinaris	4	4	4
+PI_472488_LSP	KP:GERM29117	Germplasm_Accession	India	Lens_culinaris	4	4	4
+PI_472559_LSP	KP:GERM29118	Germplasm_Accession	India	Lens_culinaris	4	4	4
+PI_472561_LSP	KP:GERM29119	Germplasm_Accession	India	Lens_culinaris	4	4	4
+PI_472569_LSP	KP:GERM29120	Germplasm_Accession	Egypt	Lens_culinaris	4	4	4
+PI_472588_LSP	KP:GERM29121	Germplasm_Accession	Egypt	Lens_culinaris			3
+PI_472590_LSP	KP:GERM29122	Germplasm_Accession	Lebanon	Lens_culinaris			3
+PI_472615_LSP	KP:GERM29123	Germplasm_Accession	Jordan	Lens_culinaris			7
+PI_472629_LSP	KP:GERM29124	Germplasm_Accession	Iran	Lens_culinaris	1	1	1
+PI_477921_LSP	KP:GERM29125	Germplasm_Accession	USA	Lens_culinaris			8
+PI_490288_LSP	KP:GERM29126	Germplasm_Accession	France	Lens_culinaris	8	8	8
+PI_490289_LSP	KP:GERM29127	Germplasm_Accession	France	Lens_culinaris			8
+PI_508090	KP:GERM29128	Germplasm_Accession	USA	Lens_culinaris			8
+PI_518731_LSP	KP:GERM28963	Germplasm_Accession	Brazil	Lens_culinaris	8	8	8
+PI_518733_LSP	KP:GERM29129	Germplasm_Accession	Brazil	Lens_culinaris		8	8
+PI_518734_LSP	KP:GERM29130	Germplasm_Accession	Brazil	Lens_culinaris		8	8
+PI_533688_LSP	KP:GERM29131	Germplasm_Accession	Spain	Lens_culinaris			7
+PI_533693_LSP	KP:GERM29132	Germplasm_Accession	Spain	Lens_culinaris	8	8	8
+PI_612875	KP:GERM29133	Germplasm_Accession	Syria	Lens_culinaris			2
+PI_643451	KP:GERM29134	Germplasm_Accession	Syria	Lens_culinaris			4
+PI_643452	KP:GERM29135	Germplasm_Accession	Syria	Lens_culinaris			4
+SHASTA	KP:GERM29136	Germplasm_Accession	USA	Lens_culinaris			8
+W6_27754	KP:GERM29137	Germplasm_Accession	Canada	Lens_culinaris	8	8	8
+W6_27760_LSP	KP:GERM29138	Germplasm_Accession	Egypt	Lens_culinaris			8
+W6_27763_LSP	KP:GERM29139	Germplasm_Accession	Jordan	Lens_culinaris	5	5	5
+W6_27766_LSP	KP:GERM29140	Germplasm_Accession	Syria	Lens_culinaris			2
+W6_27767_LSP	KP:GERM29141	Germplasm_Accession	Bangladesh	Lens_culinaris	2	2	2
