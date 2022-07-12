@@ -1,8 +1,8 @@
-#An evolutionary look into the history of lentil reveals unexpected diversity
+# An evolutionary look into the history of lentil reveals unexpected diversity
 
 This repository contains the script used in the article "An evolutionary look into the history of lentil reveals unexpected diversity"
 
-##Prerequistes
+## Prerequistes
 XHMM
 PLINK 1.07
 VCFtools 0.1.15
@@ -10,7 +10,7 @@ Admixture 1.3
 ADZE 1.0
 Bayescan
 
-###R packages
+### R packages
 stringr
 adegenet
 SNPRelate
@@ -20,14 +20,14 @@ RIdeogram
 PCAdapt
 ggplot2
 
-##Directories
+## Directories
 **bin**: contains the scripts and is the working directory for them.
 **meta**: information related to data collection, grouping, populations, etc.
 
-##Data
+## Data
 Data is available at [https://knowpulse.usask.ca/AGILE/2](https://knowpulse.usask.ca/AGILE/2)  under Associated Datasets.
 
-##Script organization
+## Script organization
 **CNV discovery**
 CNV discovery was performed using XHMM (eXome-Hidden Markov Model). A detail explanation of this can be found in the file ``XHMM_lens.md``
 
@@ -49,7 +49,7 @@ PCAdapt: ``PCAdapt.R``
 Bayescan: ``Bayescan.sh`` and ``Bayescan_plot.sh``
 
 
-##Contact
+## Contact
 Azalea Guerrra Garcia
 a.guerra@usask.ca
 azalea.guerra@iecologia.unam.mx
